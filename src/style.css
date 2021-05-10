@@ -1,0 +1,18 @@
+.title::first-letter{
+    text-transform: uppercase;
+}
+
+.title{
+font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+letter-spacing:0.1em;
+text-align:center;
+text-transform: lowercase;
+font-size: 40pt;
+font-variant: small-caps;
+
+}
+
+
+.red{
+    color: rgb(165, 0, 0);
+}
